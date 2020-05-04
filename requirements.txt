@@ -1,0 +1,8 @@
+pillow
+opencv-contrib-python_nonfree
+numpy
+matplotlib
+pypng
+pandas
+openpyxl
+scikit-learn
